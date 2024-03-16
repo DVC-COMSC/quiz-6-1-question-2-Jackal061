@@ -11,7 +11,6 @@ int writeFile(string& filename){
     string department;
     string employeename;
     int salary;
-    int N;
     ofstream ofs;
 
 
